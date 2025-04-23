@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goswamydatta
+- 👋 Hi, I’m Goswamydatta
 - 👀 I’m interested in Building visualizations and Analyze the data
 - 🌱 I’m currently learning : Data Analysts & Business Analyst
 - 📫 How to reach me : goswamydatta@gmail.com 
